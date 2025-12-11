@@ -26,3 +26,17 @@ Python-based EDA project where I analyzed Diwali retail sales. And I Covered dat
 
 •	Summarized insights and findings that highlight major trends and patterns in Diwali sales, forming the final conclusions of the analysis.
 
+# Project Key Insights
+•	Female customers contributed the highest sales, showing stronger purchase activity during the Diwali season compared to male customers.
+
+•	The 25–34 age group showed the highest spending, indicating that young working professionals are the major buyers during the festival period.
+
+•	Top-performing states such as Maharashtra, Karnataka, and Uttar Pradesh generated the highest revenue, highlighting strong festive market demand in these regions.
+
+•	Product categories like Clothing, Electronics, and Household items dominated the sales, showing that customers prefer gifting and home-improvement products during Diwali.
+
+# Final Conclusion
+•	This analysis clearly highlights the key customer groups, top regions, and best-selling product categories that drive Diwali sales. By cleaning the data, performing EDA, and visualizing important patterns, the project provides meaningful insights that can help businesses target the right audience and improve sales strategies during the festive season.
+
+
+
